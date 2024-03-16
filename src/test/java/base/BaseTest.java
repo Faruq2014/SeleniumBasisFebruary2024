@@ -10,7 +10,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class BaseTest {
 	
 	public WebDriver driver;
-	String browser="firefox";
+	String browser="chrome";
 	
 	public WebDriver openApplication() {
 		
